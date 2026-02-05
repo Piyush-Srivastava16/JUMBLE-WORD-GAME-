@@ -1,7 +1,4 @@
-// Array of words with their corresponding hints
-
 let words = [
-  // Each object represents a word and its hint
   {
     word: "addition",
     hint: "The process of adding numbers"
@@ -147,4 +144,5 @@ const checkWord = () => {
 
 // Event listeners for the refresh and check buttons
 refreshBtn.addEventListener("click", initGame);
+
 checkBtn.addEventListener("click", checkWord);
