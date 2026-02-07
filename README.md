@@ -20,7 +20,7 @@ Players must guess the correct word from a scrambled version within a limited ti
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & animations  
-- **JavaScript (Vanilla)** – Game logic  
+- **JavaScript** – Game logic  
 
 ---
 
