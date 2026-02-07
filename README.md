@@ -25,4 +25,9 @@ Players must guess the correct word from a scrambled version within a limited ti
 ---
 
 ## 📁 Project Structure
-
+word-scramble-game/
+│
+├── index.html # Main HTML file
+├── style.css # Styling
+├── script.js # Game logic
+└── README.md # Project documentation
